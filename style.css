@@ -1,0 +1,10 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600,700');
+</style>
+
+body {
+	background-image: url('https://i.redd.it/rif6cus9o5hz.jpg');
+	background-size: cover;
+	background-blend-mode: color-dodge;
+	font-family: 'Raleway', cursive;
+}
